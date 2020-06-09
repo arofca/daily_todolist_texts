@@ -1,4 +1,4 @@
-# Twilio To Do List Application
+# Twilio-based To Do List Application
 
 I rely heavily on a to-do list on a Google Sheet for day-to-day task management, and thought it would be useful for me to
 get a text every morning with what I set out to achive for the day. This is a simple app that integrates Google Cloud 
