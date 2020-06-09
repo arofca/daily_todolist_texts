@@ -1,10 +1,10 @@
-#Twilio To Do List Application
+# Twilio To Do List Application
 
 I rely heavily on a to-do list on a Google Sheet for day-to-day task management, and thought it would be useful for me to
 get a text every morning with what I set out to achive for the day. This is a simple app that integrates Google Cloud 
 Functions, Twilio, Google Sheets, and Pandas to send me a text digest of my to-do-list every morning.
 
-##Things you need to have set up to recreate this:
+## Things you need to have set up to recreate this:
 
 1. Your Twilio account SID and auth token. Once you've created an account, you can find these on the front page of your 
 Twilio [console](https://www.twilio.com/console)
