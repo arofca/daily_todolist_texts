@@ -22,7 +22,7 @@ This script as written relies on a SECRETS.json file to access compute resources
 
 5. A cell phone number on which to receive texts
 
-6. A Google Sheet from which to pull this data, and its spreadsheet ID, which can be found in the sheet URL after the '/d' 
+6. A Google Sheet from which to pull this data, and its spreadsheet ID, which can be found in the sheet URL after the '/d/' 
 
     I have my sheet set up like below:
 
