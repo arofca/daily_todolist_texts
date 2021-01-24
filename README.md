@@ -29,7 +29,7 @@ This script as written relies on a SECRETS.json file to access compute resources
     ![My To-Do List](To-Do.png)
 
     The relevant columns are just Date Due, Task, and Status, which my script uses Pandas to filter through. Feel to play 
-    around and adapt with this and adapt the script to your needs, but I set this script up to send me all tasks that are 
+    around and adapt the script to your needs, but I set this script up to send me all tasks that are 
     not yet marked completed by the due date, coupled with all tasks due today.
 
 I use Google Cloud Scheduler to send an HTTP trigger to the Cloud Function containing this script every morning at 7:40am.
